@@ -1,0 +1,10 @@
+QwZlRL8uc1BW
+
+
+python dirlididi.py submit LvlHaCHJY QwZlRL8uc1BW prolog5.pl
+python dirlididi.py submit <problem_key> QwZlRL8uc1BW <filename>.exe
+ghc <filename>.hs -o <filename>
+gcc <filename>.cpp -o <filename>
+
+
+
